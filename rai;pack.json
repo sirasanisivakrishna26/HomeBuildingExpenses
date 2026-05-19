@@ -1,0 +1,6 @@
+{
+  "providers": ["java"],
+  "java": {
+    "mavenVersion": "3.9.15"
+  }
+}
